@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Mikaela K. Nishida"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: Nishida_CV_031425.pdf
+        text: CV
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

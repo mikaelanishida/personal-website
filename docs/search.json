@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mikaela K. Nishida",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am a fourth-year Statistics Ph.D. Candidate at the University of California, Irvine. I am currently working with Drs. Daniel Gillen (UCI) and Michelle Nuño (USC) on developing statistical methods to increase efficiency while maximizing information on underrepresented populations. I am also a member of the research lab led by Drs. Daniel Gillen and Joshua Grill (UCI), which focuses on applications in Alzheimer’s disease recruitment and retention.\nMy hobbies include swimming, going to the beach, and trying new restaurants."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I work on the development of statistical methodology in survival analysis along with applied research problems in Alzheimer’s disease recruitment and retention science.\n\nStatistical Methodology"
   }
 ]

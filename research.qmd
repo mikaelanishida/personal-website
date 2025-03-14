@@ -1,0 +1,7 @@
+---
+title: "Research"
+---
+
+I work on the development of statistical methodology in survival analysis along with applied research problems in Alzheimer's disease recruitment and retention science.
+
+### Statistical Methodology

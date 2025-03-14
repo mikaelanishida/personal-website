@@ -3,12 +3,16 @@ title: "Mikaela K. Nishida"
 about:
   template: solana
   image: headshot_mikaela.png
+  image-shape: round
+  links:
+    - icon: person-check-fill
+      text: ORCiD
+      href: https://orcid.org/0009-0007-8676-9361
+    - icon: person-lines-fill
+      text: Google Scholar
+      href: https://scholar.google.com/
 ---
 
-This is a Quarto website.
+Hello! I am a fourth-year Statistics Ph.D. Candidate at the University of California, Irvine. I am currently working with Drs. Daniel Gillen (UCI) and Michelle Nuño (USC) on developing statistical methods to increase efficiency while maximizing information on underrepresented populations. I am also a member of the research lab led by Drs. Daniel Gillen and Joshua Grill (UCI), which focuses on applications in Alzheimer's disease recruitment and retention.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+My hobbies include swimming, going to the beach, and trying new restaurants.
