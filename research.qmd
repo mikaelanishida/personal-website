@@ -10,7 +10,9 @@ My methodological research involves developing statistical methods to increase e
 
 #### Publications
 
-*(Under-review)* **Nishida, M.K.**, Nuño, M.M., Gillen, D.L., “Modified Nested Case-Control Designs for Assessing Effect Modification in Underrepresented Subpopulations.”
+*(Under review)* **Nishida, M.K.**, Nuño, M.M., Gillen, D.L., “Modified Nested Case-Control Designs for Assessing Effect Modification in Underrepresented Subpopulations.”
+
+*(In preparation)* **Nishida, M.K.**, Nuño, M.M., Gillen, D.L., “Nested Case-Control Sampling for Marginal Estimation in Multiple Event Settings.”
 
 ### Applied Statistics
 
