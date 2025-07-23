@@ -16,6 +16,6 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=F3mbUYYAAAAJ&view_op=list_works&gmla=ANZ5fUMSUMai8a7dBwnx5hUz49LmS0NXP_hnSPompSddwnSfZtmcw6PkZR18OWIPUJk0OMgTvwRdB654nPiZ7cM4
 ---
 
-Hello! I am a fifth-year Statistics Ph.D. Candidate at the University of California, Irvine. I am currently working on developing robust methods for censored, time-to-event data. I am mentored by Drs. Daniel Gillen (UCI) and Michelle Nuño (USC), and I am also a member of the research lab led by Drs. Daniel Gillen and Joshua Grill (UCI), which focuses on applications in Alzheimer's disease recruitment and retention.
+Hello! I am a fifth-year Statistics Ph.D. Candidate at the University of California, Irvine. I am currently working on developing robust methods for censored, time-to-event data. I am mentored by Drs. Daniel Gillen (UCI) and Michelle Nuño (USC), and I am also a member of the research lab led by Drs. Daniel Gillen and Joshua Grill (UCI), which focuses on applications in recruitment and retention for Alzheimer's disease trials.
 
 I am originally from Honolulu, Hawai‘i. My hobbies include swimming, going to the beach, and trying new restaurants.
