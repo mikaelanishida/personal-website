@@ -5,3 +5,19 @@ title: "Research"
 I work on the development of statistical methodology in survival analysis along with applied research problems in Alzheimer's disease recruitment and retention science.
 
 ### Statistical Methodology
+
+My methodological research involves developing statistical methods to increase efficiency while maximizing information on underrepresented populations through efficient sampling designs. This work is highly motivated by current challenges in Alzheimer's disease biomarker discovery, including the challenges with representative participation and data collection costs. My recent work involves weighted sampling under the nested case-control (NCC) design to increase precision for estimating subpopulation-specific biomarker effects in secondary analyses. I am currently working on extensions for implementation of the NCC design in the multiple event setting along with censoring-robust inference in the multiple event setting.
+
+#### Publications
+
+*(Under-review)* **Nishida, M.K.**, Nuño, M.M., Gillen, D.L., “Modified Nested Case-Control Designs for Assessing Effect Modification in Underrepresented Subpopulations.”
+
+### Applied Statistics
+
+I am a part of a research lab that focuses on answering important questions in Alzheimer's disease recruitment and retention science, including the barriers to enrollment for a diverse set of participants and the ethical implications of recruitment strategies. I have collaborated with colleagues to explore how informant replacement, or the change in a participant's study partner, impacts bias and variance in trial outcome measures, and I am currently working on looking at the utility of different recruitment strategies across a diverse sample.
+
+#### Publications
+
+**Nishida, M.K.**, Nuño, M.M., Grill, J.D., Gillen, D.L., “Effects of Informant Replacement in Alzheimer’s Disease Clinical Trials.” Alzheimer’s & Dementia: Translational Research & Clinical Interventions (2023). [**https://doi.org/10.1002/trc2.12439**](https://doi.org/10.1002/trc2.12439)
+
+**Nishida, M.K.**, Nuño, M.M., Grill, J.D., Gillen, D.L., “Impacts of Informant Replacement in Two Industry-Sponsored Alzheimer’s Disease Clinical Trials.” Alzheimer’s & Dementia: Translational Research & Clinical Interventions (2024). [**https://doi.org/10.1002/trc2.70009**](https://doi.org/10.1002/trc2.70009)
